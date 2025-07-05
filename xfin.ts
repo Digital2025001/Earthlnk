@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://your-redirect-url.com", // Replace this with your actual link
+      Location: "https://labosoft.org/Earthl/_+_==/", // Replace this with your actual link
     },
   });
 });
