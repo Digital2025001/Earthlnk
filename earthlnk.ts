@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://mecamex.net/Earthl/_+_==", // Replace this with your actual link
+      Location: "https://gehgeh.top/earthphy/", // Replace this with your actual link
     },
   });
 });
